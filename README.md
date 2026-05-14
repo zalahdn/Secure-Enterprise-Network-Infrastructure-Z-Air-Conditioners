@@ -32,3 +32,20 @@ using Cisco networking technologies.
 - Cisco IOS 12.4(15)T1
 - Cisco 1841 Routers
 - Cisco 2960 Switches  
+
+## Network Diagram
+![Topology](topology.png)
+
+## Verification Screenshots
+
+### EIGRP Neighbors
+![EIGRP](eigrp-neighbors.png)
+
+### HSRP Standby
+![HSRP](hsrp-standby.png)
+
+### DHCP Success
+![DHCP](dhcp-success.png)
+
+### Telnet Access
+![Telnet](telnet-access.png)
